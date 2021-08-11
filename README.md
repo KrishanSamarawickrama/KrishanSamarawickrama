@@ -5,7 +5,7 @@
 - 🔭 I’m interested in C# , Azure and SQL!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on c# based projects to help the community
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love RPG games ! 
 - 📫 How to reach me : Krishan.Samarawickrama@Outlook.com
 
