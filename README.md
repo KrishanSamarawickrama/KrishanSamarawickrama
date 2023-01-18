@@ -14,19 +14,6 @@ I'm also a RPG games lover, Batman fan and a mentor.
 <br/>
 
 <summary>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center" width="35" /> 
-What I currently do
-</h2>
-</summary>
-
-- 🔭 I’m interested in C# , Azure and SQL!
-- 🌱 I’m currently learning python 🐍
-- 👯 I’m looking to collaborate on c# based projects to help the community
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love RPG games ! 
-- 📫 How to reach me : Krishan.Samarawickrama@Outlook.com
-
-<summary>
 <h2>
 <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> 
 To connect with me
@@ -38,8 +25,6 @@ To connect with me
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://github.com/KrishanSamarawickrama)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Krish4nS) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krishan-samarawickrama/)
-[![Visits Badge](https://badges.pufler.dev/visits/KrishanSamarawickrama/KrishanSamarawickrama?style=for-the-badge)](https://github.com/KrishanSamarawickrama)
-
 </p>
 
 <summary>
